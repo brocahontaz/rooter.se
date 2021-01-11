@@ -1,0 +1,12 @@
+:root {
+  --primary: #478eaf;
+  --text-primary: #000000;
+  --text-inverted: #ffffff;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}

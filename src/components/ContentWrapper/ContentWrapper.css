@@ -1,0 +1,13 @@
+.ContentWrapper {
+  display: flex;
+  flex-direction: column;
+  width: 1000px;
+}
+
+.RowFlex {
+  flex-direction: row;
+}
+
+.Space-Between {
+  justify-content: space-between;
+}
